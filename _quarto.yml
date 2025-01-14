@@ -11,7 +11,7 @@ website:
       - href: index.qmd
         text: Home
       - href: project.qmd
-        text: FYP Project in TP
+        text: Intern Project in LTA
       - href: travel.qmd
         text: Travel Experience to Thailand
       - href: reflection.qmd
