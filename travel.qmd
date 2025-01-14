@@ -1,9 +1,51 @@
 ---
-title: "FYP Project in TP"
+title: "Travel Experiences in Thailand"
+format: html
 ---
 
-About this site
+# About This Site
+
+Welcome to my travel diary! This site documents my incredible journey across Thailand, including vibrant cities and stunning islands.
+
+## Hat Yai: A Vibrant Gateway to the South
+
+Hat Yai, known for its bustling markets and cultural charm, was my first stop. Here’s what I explored:
+
+- **Kim Yong Market**: A paradise for street food lovers with local snacks and souvenirs.
+- **Samila Beach**: Famous for the Golden Mermaid statue and serene coastal views.
+- **Floating Market**: A vibrant place to enjoy traditional Thai food served from boats.
+
+## Krabi: Gateway to Paradise
+
+Krabi stole my heart with its picturesque landscapes and adventures. Highlights included:
+
+- **Railay Beach**: Accessible only by boat, this beach offers dramatic limestone cliffs and turquoise waters.
+- **Island Hopping**: The Phi Phi Islands were a standout! I snorkeled in crystal-clear waters, visited Maya Bay (famous from *The Beach* movie), and relaxed on pristine beaches.
+
+### Tips for Island Hopping
+
+- Start early to avoid crowds.
+- Don’t forget sunscreen and a waterproof bag for your essentials.
+- Try local seafood on the islands!
+
+## Bangkok: The Heart of Thailand
+
+Bangkok, the bustling capital, was a mix of modern skyscrapers and historic temples:
+
+- **Grand Palace**: A stunning complex of intricate architecture and the revered Emerald Buddha.
+- **Chatuchak Market**: One of the largest markets in the world, where I shopped for unique items and sampled delicious street food.
+- **Asiatique Riverfront**: A lively night market with a riverside view, perfect for an evening stroll.
+
+## Summary
+
+Thailand was an unforgettable blend of cultural heritage, natural beauty, and exciting urban experiences. I highly recommend exploring this beautiful country for its diverse offerings and warm hospitality.
 
 ```{r}
-1 + 1
+# A simple calculation to check my travel budget
+budget <- 1000 # Initial budget in USD
+spent <- 750   # Total spent during the trip
+remaining <- budget - spent
+remaining
 ```
+
+Enjoy exploring my travel experiences and planning your own adventures!
