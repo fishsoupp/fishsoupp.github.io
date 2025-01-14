@@ -1,9 +1,6 @@
 ---
-title: "FYP Project in TP"
+title: "Reflection on the use of GenAI"
 ---
 
-About this site
+The GenAI tool I have been using is ChatGPT. This tool has significantly improved my study efficiency by helping me extract key points from lecture slides and organize them into concise notes. Additionally, it has been a valuable resource for understanding complex concepts, such as various data structures and algorithms, that I previously found challenging. The benefits of ChatGPT are extensive, offering quick and tailored explanations that support learning. However, the tool’s usefulness depends greatly on the user’s ability to craft precise and effective prompts to retrieve accurate information. This aspect can be challenging for some, as it requires clarity and a good understanding of what is being sought. Despite this, I believe ChatGPT is an exceptional learning aid, especially for tackling complex academic subjects.
 
-```{r}
-1 + 1
-```

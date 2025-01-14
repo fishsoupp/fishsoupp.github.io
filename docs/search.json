@@ -16,9 +16,9 @@
   {
     "objectID": "project.html",
     "href": "project.html",
-    "title": "FYP Project in TP",
+    "title": "Intern Project in LTA",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "During my internship with the Land Transport Authority (LTA), I had the opportunity to work on several impactful projects utilizing Robotic Process Automation (RPA) with UiPath. These projects were instrumental in streamlining and automating various finance-related processes, leading to significant improvements in efficiency and accuracy."
   },
   {
     "objectID": "travel.html",
@@ -30,9 +30,9 @@
   {
     "objectID": "reflection.html",
     "href": "reflection.html",
-    "title": "FYP Project in TP",
+    "title": "Reflection on the use of GenAI",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "The GenAI tool I have been using is ChatGPT. This tool has significantly improved my study efficiency by helping me extract key points from lecture slides and organize them into concise notes. Additionally, it has been a valuable resource for understanding complex concepts, such as various data structures and algorithms, that I previously found challenging. The benefits of ChatGPT are extensive, offering quick and tailored explanations that support learning. However, the tool’s usefulness depends greatly on the user’s ability to craft precise and effective prompts to retrieve accurate information. This aspect can be challenging for some, as it requires clarity and a good understanding of what is being sought. Despite this, I believe ChatGPT is an exceptional learning aid, especially for tackling complex academic subjects."
   },
   {
     "objectID": "index.html#about-me",
@@ -82,5 +82,19 @@
     "title": "Travel Experiences in Thailand",
     "section": "",
     "text": "Thailand was an unforgettable blend of cultural heritage, natural beauty, and exciting urban experiences. I highly recommend exploring this beautiful country for its diverse offerings and warm hospitality.\n\n# A simple calculation to check my travel budget\nbudget &lt;- 1000 # Initial budget in USD\nspent &lt;- 750   # Total spent during the trip\n\nEnjoy exploring my travel experiences and planning your own adventures!"
+  },
+  {
+    "objectID": "project.html#key-contributions",
+    "href": "project.html#key-contributions",
+    "title": "Intern Project in LTA",
+    "section": "Key Contributions:",
+    "text": "Key Contributions:\n\nData Extraction from PDFs: I developed RPA workflows to automate the extraction of financial data from large volumes of PDF files. This eliminated the need for manual data entry, reducing errors and saving countless hours of work.\nExcel Automation: I automated repetitive and time-consuming Excel processes, such as data validation, calculations, and report generation. This enhanced the reliability and speed of financial operations, ensuring timely delivery of reports.\nProcess Optimization: By analyzing the existing workflows, I identified bottlenecks and implemented automation solutions that streamlined processes, enabling the finance team to focus on higher-value tasks."
+  },
+  {
+    "objectID": "project.html#impact-of-the-automation",
+    "href": "project.html#impact-of-the-automation",
+    "title": "Intern Project in LTA",
+    "section": "Impact of the Automation:",
+    "text": "Impact of the Automation:\n\nIncreased Efficiency: The automated solutions significantly reduced the time required to complete manual tasks.\nEnhanced Accuracy: Automation minimized human errors, ensuring consistent and reliable financial data.\nScalability: The RPA solutions were designed to handle increasing volumes of data without additional resource requirements.\n\nThis experience not only enhanced my technical skills in UiPath but also deepened my understanding of financial processes and their optimization through technology. It was a rewarding opportunity to contribute to meaningful improvements within a large organization."
   }
 ]

@@ -1,9 +1,21 @@
 ---
-title: "FYP Project in TP"
+title: "Intern Project in LTA"
 ---
 
-About this site
+During my internship with the **Land Transport Authority (LTA)**, I had the opportunity to work on several impactful projects utilizing **Robotic Process Automation (RPA)** with **UiPath**. These projects were instrumental in streamlining and automating various finance-related processes, leading to significant improvements in efficiency and accuracy.
 
-```{r}
-1 + 1
-```
+## Key Contributions:
+
+- **Data Extraction from PDFs**: I developed RPA workflows to automate the extraction of financial data from large volumes of PDF files. This eliminated the need for manual data entry, reducing errors and saving countless hours of work.
+
+- **Excel Automation**: I automated repetitive and time-consuming Excel processes, such as data validation, calculations, and report generation. This enhanced the reliability and speed of financial operations, ensuring timely delivery of reports.
+
+- **Process Optimization**: By analyzing the existing workflows, I identified bottlenecks and implemented automation solutions that streamlined processes, enabling the finance team to focus on higher-value tasks.
+
+## Impact of the Automation:
+
+1. **Increased Efficiency**: The automated solutions significantly reduced the time required to complete manual tasks.
+2. **Enhanced Accuracy**: Automation minimized human errors, ensuring consistent and reliable financial data.
+3. **Scalability**: The RPA solutions were designed to handle increasing volumes of data without additional resource requirements.
+
+This experience not only enhanced my technical skills in UiPath but also deepened my understanding of financial processes and their optimization through technology. It was a rewarding opportunity to contribute to meaningful improvements within a large organization.
