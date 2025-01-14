@@ -44,8 +44,6 @@ Thailand was an unforgettable blend of cultural heritage, natural beauty, and ex
 # A simple calculation to check my travel budget
 budget <- 1000 # Initial budget in USD
 spent <- 750   # Total spent during the trip
-remaining <- budget - spent
-remaining
 ```
 
 Enjoy exploring my travel experiences and planning your own adventures!

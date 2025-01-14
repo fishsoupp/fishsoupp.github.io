@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Lim Jing Yu",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hi, I’m Jing Yu! I’m a university student with a zest for life, balancing academics with my passions. Let me share a bit about who I am:\n\n\n\n\n💪 Fitness Enthusiast: The gym and running track are my sanctuaries. Staying fit keeps me energized and ready to take on challenges.\n🌍 Traveler & Nature Lover: Exploring new destinations and immersing in nature bring me peace and joy. They’re my escape from the hustle of university life.\n🕰 Living in the Present: I’m on a journey to embrace the now, letting go of the past and not worrying too much about the future.\n\n\n\n\n\n\n\nI thrive on pushing my limits, whether it’s achieving a personal best at the gym or running through scenic routes. Fitness fuels my body and mind.\n\n\n\nFrom lush forests to tranquil beaches, nature’s beauty inspires me. Traveling helps me recharge and creates memories that last a lifetime.\n\n\n\n\n\n\n“The best way to predict the future is to create it.”\n\n\n✨ Thanks for stopping by! Dive into my journey, and let’s inspire each other to live our best lives!"
   },
   {
     "objectID": "about.html",
@@ -23,9 +23,9 @@
   {
     "objectID": "travel.html",
     "href": "travel.html",
-    "title": "FYP Project in TP",
+    "title": "Travel Experiences in Thailand",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome to my travel diary! This site documents my incredible journey across Thailand, including vibrant cities and stunning islands.\n\n\nHat Yai, known for its bustling markets and cultural charm, was my first stop. Here’s what I explored:\n\nKim Yong Market: A paradise for street food lovers with local snacks and souvenirs.\nSamila Beach: Famous for the Golden Mermaid statue and serene coastal views.\nFloating Market: A vibrant place to enjoy traditional Thai food served from boats.\n\n\n\n\nKrabi stole my heart with its picturesque landscapes and adventures. Highlights included:\n\nRailay Beach: Accessible only by boat, this beach offers dramatic limestone cliffs and turquoise waters.\nIsland Hopping: The Phi Phi Islands were a standout! I snorkeled in crystal-clear waters, visited Maya Bay (famous from The Beach movie), and relaxed on pristine beaches.\n\n\n\n\nStart early to avoid crowds.\nDon’t forget sunscreen and a waterproof bag for your essentials.\nTry local seafood on the islands!\n\n\n\n\n\nBangkok, the bustling capital, was a mix of modern skyscrapers and historic temples:\n\nGrand Palace: A stunning complex of intricate architecture and the revered Emerald Buddha.\nChatuchak Market: One of the largest markets in the world, where I shopped for unique items and sampled delicious street food.\nAsiatique Riverfront: A lively night market with a riverside view, perfect for an evening stroll.\n\n\n\n\nThailand was an unforgettable blend of cultural heritage, natural beauty, and exciting urban experiences. I highly recommend exploring this beautiful country for its diverse offerings and warm hospitality.\n\n# A simple calculation to check my travel budget\nbudget &lt;- 1000 # Initial budget in USD\nspent &lt;- 750   # Total spent during the trip\n\nEnjoy exploring my travel experiences and planning your own adventures!"
   },
   {
     "objectID": "reflection.html",
@@ -33,5 +33,54 @@
     "title": "FYP Project in TP",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Lim Jing Yu",
+    "section": "",
+    "text": "💪 Fitness Enthusiast: The gym and running track are my sanctuaries. Staying fit keeps me energized and ready to take on challenges.\n🌍 Traveler & Nature Lover: Exploring new destinations and immersing in nature bring me peace and joy. They’re my escape from the hustle of university life.\n🕰 Living in the Present: I’m on a journey to embrace the now, letting go of the past and not worrying too much about the future."
+  },
+  {
+    "objectID": "index.html#my-interests",
+    "href": "index.html#my-interests",
+    "title": "Lim Jing Yu",
+    "section": "",
+    "text": "I thrive on pushing my limits, whether it’s achieving a personal best at the gym or running through scenic routes. Fitness fuels my body and mind.\n\n\n\nFrom lush forests to tranquil beaches, nature’s beauty inspires me. Traveling helps me recharge and creates memories that last a lifetime."
+  },
+  {
+    "objectID": "index.html#quote-i-live-by",
+    "href": "index.html#quote-i-live-by",
+    "title": "Lim Jing Yu",
+    "section": "",
+    "text": "“The best way to predict the future is to create it.”\n\n\n✨ Thanks for stopping by! Dive into my journey, and let’s inspire each other to live our best lives!"
+  },
+  {
+    "objectID": "travel.html#hat-yai-a-vibrant-gateway-to-the-south",
+    "href": "travel.html#hat-yai-a-vibrant-gateway-to-the-south",
+    "title": "Travel Experiences in Thailand",
+    "section": "",
+    "text": "Hat Yai, known for its bustling markets and cultural charm, was my first stop. Here’s what I explored:\n\nKim Yong Market: A paradise for street food lovers with local snacks and souvenirs.\nSamila Beach: Famous for the Golden Mermaid statue and serene coastal views.\nFloating Market: A vibrant place to enjoy traditional Thai food served from boats."
+  },
+  {
+    "objectID": "travel.html#krabi-gateway-to-paradise",
+    "href": "travel.html#krabi-gateway-to-paradise",
+    "title": "Travel Experiences in Thailand",
+    "section": "",
+    "text": "Krabi stole my heart with its picturesque landscapes and adventures. Highlights included:\n\nRailay Beach: Accessible only by boat, this beach offers dramatic limestone cliffs and turquoise waters.\nIsland Hopping: The Phi Phi Islands were a standout! I snorkeled in crystal-clear waters, visited Maya Bay (famous from The Beach movie), and relaxed on pristine beaches.\n\n\n\n\nStart early to avoid crowds.\nDon’t forget sunscreen and a waterproof bag for your essentials.\nTry local seafood on the islands!"
+  },
+  {
+    "objectID": "travel.html#bangkok-the-heart-of-thailand",
+    "href": "travel.html#bangkok-the-heart-of-thailand",
+    "title": "Travel Experiences in Thailand",
+    "section": "",
+    "text": "Bangkok, the bustling capital, was a mix of modern skyscrapers and historic temples:\n\nGrand Palace: A stunning complex of intricate architecture and the revered Emerald Buddha.\nChatuchak Market: One of the largest markets in the world, where I shopped for unique items and sampled delicious street food.\nAsiatique Riverfront: A lively night market with a riverside view, perfect for an evening stroll."
+  },
+  {
+    "objectID": "travel.html#summary",
+    "href": "travel.html#summary",
+    "title": "Travel Experiences in Thailand",
+    "section": "",
+    "text": "Thailand was an unforgettable blend of cultural heritage, natural beauty, and exciting urban experiences. I highly recommend exploring this beautiful country for its diverse offerings and warm hospitality.\n\n# A simple calculation to check my travel budget\nbudget &lt;- 1000 # Initial budget in USD\nspent &lt;- 750   # Total spent during the trip\n\nEnjoy exploring my travel experiences and planning your own adventures!"
   }
 ]
