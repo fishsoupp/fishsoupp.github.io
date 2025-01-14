@@ -3,14 +3,16 @@ project:
   output-dir: docs
 
 website:
-  title: "temp_website"
+  title: "Lim Jing Yu"
   favicon: favicon.png
   navbar:
     logo: logo.png
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - project.qmd
+      - travel.qmd
+      - reflection.qmd
 
 format:
   html:
