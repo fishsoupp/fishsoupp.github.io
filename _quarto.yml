@@ -10,9 +10,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - project.qmd
-      - travel.qmd
-      - reflection.qmd
+      - href: project.qmd
+        text: FYP Project in TP
+      - href: travel.qmd
+        text: Travel Experience to Thailand
+      - href: reflection.qmd
+        text: Reflection
 
 format:
   html:
